@@ -1,5 +1,5 @@
 # Portifolio
-<h1 align="center">Oi 👋, Eu sou Leonardo Camilotti</h1>
+<h1 align="center">Olá! 👋, Eu sou Leonardo Camilotti</h1>
 <h3 align="center">Eu sou um apaixonado pelo mundo dos dados, focado em resolução de problemas de negócio</h3>
 
 - 🔭 Atualmente trabalho com análise e visualização de dados em uma industria de Biodiesel **Predição de Consumo de Diesel no Brasil, por regiões e Estados**
